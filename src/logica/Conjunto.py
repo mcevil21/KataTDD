@@ -6,4 +6,3 @@ class Conjunto:
             return sum(self.__conjunto) / len(self.__conjunto)
         else:
             return None
-

@@ -41,7 +41,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in TestConjunto.py">
     <configuration name="Conjunto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="KataTDD" />
       <option name="ENV_FILES" value="" />
